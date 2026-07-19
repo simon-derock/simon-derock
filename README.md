@@ -79,12 +79,7 @@ Repurposed an idle laptop into a wireless, headless Ubuntu AI server — end-to-
 
 ---
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-derock&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-derock&layout=compact&hide_border=true)
-
-</div>
 
 <div align="center">
 
