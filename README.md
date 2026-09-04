@@ -11,6 +11,7 @@ tested, observable, and deployable.
 [![Portfolio](https://img.shields.io/badge/Portfolio-philipsimonderock.com-000?style=flat-square&logo=safari&logoColor=white)](https://philipsimonderock.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--derock-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-derock/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-philip11-FFD21E?style=flat-square)](https://huggingface.co/philip11)
+[![Email](https://img.shields.io/badge/Email-contact%40philipsimonderock.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@philipsimonderock.com)
 [![Resume](https://img.shields.io/badge/Resume-view%20PDF-111827?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://philipsimonderock.com/resume.pdf)
 
 </div>
@@ -24,6 +25,16 @@ engineering. I care about the hard parts that make systems useful in the real
 world: provenance, retrieval quality, deterministic validation, stateful
 orchestration, failure recovery, privacy boundaries, and deployment on
 constrained hardware.
+
+## Current focus
+
+- Open to AI Engineer opportunities spanning Agentic AI, GraphRAG, retrieval
+  systems, LLM platforms, and efficient model deployment.
+- Building production Agentic RAG infrastructure for legal research with
+  LangGraph ReAct workflows, Zilliz hybrid retrieval, and a dedicated FastMCP
+  server that exposes legal intelligence as native tools.
+- Exploring QLoRA/DoRA fine-tuning and low-cost inference for capable models on
+  constrained hardware.
 
 ## Featured systems
 
@@ -89,6 +100,12 @@ memory, Supabase structured memory, and Telegram delivery.
 - [Computer Vision Player Tracker](https://github.com/simon-derock/football-player-tracker) —
   YOLOv5 tracking with Kalman filtering and Hungarian assignment for robust
   re-identification under occlusion.
+- [Advanced GenAI Server](https://github.com/simon-derock/ADVANCED_GENERATIVE_AI_SERVER_FOR_EFFICIENT_AI_DEPLOYMENT) —
+  a headless Ubuntu AI server with Ollama, LangChain, Nomic embeddings, and
+  MySQL-backed conversational memory.
+- [Portable Server](https://github.com/simon-derock/Portable-Server) —
+  dual-boot Linux infrastructure built from a repurposed laptop for wireless,
+  always-on hosting.
 
 ## Technical focus
 
@@ -114,5 +131,7 @@ when the model, network, or input is imperfect.**
 
 **[Download my resume](https://philipsimonderock.com/resume.pdf)** ·
 **[Explore my portfolio](https://philipsimonderock.com)**
+
+contact@philipsimonderock.com
 
 </div>
