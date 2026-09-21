@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./a-banner.png" alt="A stylized mountain landscape beneath a full moon" width="100%" />
+<img src="./a.png" alt="A stylized mountain landscape beneath a full moon" width="100%" />
 
 # Philip Simon Derock
 
