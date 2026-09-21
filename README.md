@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./a.jpg" alt="A stylized mountain landscape beneath a full moon" width="100%" height="160" style="display:block; width:100%; height:160px; object-fit:cover; object-position:center top;" />
+
 # Philip Simon Derock
 
 ### AI Engineer · Agentic Systems · GraphRAG · LLM Engineering
